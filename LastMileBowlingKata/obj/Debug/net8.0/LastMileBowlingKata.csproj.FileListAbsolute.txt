@@ -1,0 +1,15 @@
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.exe
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.deps.json
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.runtimeconfig.json
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.dll
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.pdb
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.AssemblyInfoInputs.cache
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.AssemblyInfo.cs
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.csproj.CoreCompileInputs.cache
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.sourcelink.json
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.dll
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\refint\LastMileBowlingKata.dll
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.pdb
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.genruntimeconfig.cache
+C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\ref\LastMileBowlingKata.dll
