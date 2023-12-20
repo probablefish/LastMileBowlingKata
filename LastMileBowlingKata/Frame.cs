@@ -1,4 +1,5 @@
-namespace LastMileBowlingKata {
+namespace LastMileBowlingKata
+{
     public class Frame
     {
 
@@ -8,11 +9,15 @@ namespace LastMileBowlingKata {
         {
 
         }
-            
+
         public int getNumberOfTries()
         {
             return tries.Length;
         }
-        
+
+        public void updateTryOneScore(int scoreToBeAdded)
+        {
+            tries[0] += scoreToBeAdded;
+        }
     }
 }
