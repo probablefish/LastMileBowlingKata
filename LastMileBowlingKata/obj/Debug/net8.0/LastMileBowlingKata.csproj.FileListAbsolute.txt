@@ -13,3 +13,18 @@ C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowli
 C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.pdb
 C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.genruntimeconfig.cache
 C:\Users\BrownDa\OneDrive - AO Retail Limited\Desktop\Bowling Kata\LastMileBowlingKata\LastMileBowlingKata\obj\Debug\net8.0\ref\LastMileBowlingKata.dll
+C:\Source\Github\BowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.exe
+C:\Source\Github\BowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.deps.json
+C:\Source\Github\BowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.runtimeconfig.json
+C:\Source\Github\BowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.dll
+C:\Source\Github\BowlingKata\LastMileBowlingKata\bin\Debug\net8.0\LastMileBowlingKata.pdb
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.AssemblyInfoInputs.cache
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.AssemblyInfo.cs
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.csproj.CoreCompileInputs.cache
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.sourcelink.json
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.dll
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\refint\LastMileBowlingKata.dll
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.pdb
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\LastMileBowlingKata.genruntimeconfig.cache
+C:\Source\Github\BowlingKata\LastMileBowlingKata\obj\Debug\net8.0\ref\LastMileBowlingKata.dll

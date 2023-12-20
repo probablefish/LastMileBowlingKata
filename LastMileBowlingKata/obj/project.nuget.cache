@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "h3mdDc31RYN0GYsDUpoCZ1zNUAgbr0U2jiKwrFEWk6mmgUPkjTA+osGVlRfmke7+SAgxWsQkyLVzAoF8Rg3JQw==",
+  "dgSpecHash": "+ouCJDvjL2YlUDRMAksIk1qutlGtRqt29iJkKEZadHd7gwkuCgL4/8l+dVUo/kQwEj0Jq/sPYw0cviqevlq1vA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\BrownDa\\OneDrive - AO Retail Limited\\Desktop\\Bowling Kata\\LastMileBowlingKata\\LastMileBowlingKata\\LastMileBowlingKata.csproj",
+  "projectFilePath": "C:\\Source\\Github\\BowlingKata\\LastMileBowlingKata\\LastMileBowlingKata.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.ao.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
