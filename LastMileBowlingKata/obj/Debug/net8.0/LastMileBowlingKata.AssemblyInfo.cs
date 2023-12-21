@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LastMileBowlingKata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7e617f5d7113442b6a491e07aa136536427b0c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LastMileBowlingKata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LastMileBowlingKata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
