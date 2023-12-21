@@ -1,5 +1,3 @@
-
-
 using LastMileBowlingKata;
 
 namespace LastMileBowlingKataTest;
@@ -20,4 +18,12 @@ public class Tests
         var frame = new Frame();
         Assert.AreEqual(2, frame.getNumberOfTries());
     }
+
+    [TestMethod]
+    public void WhenNotAllPinsKnockedDownInAFrame_ThenScoreEqualsTotalPins()
+    {
+        var frame = new Frame();
+        frame.updateTryOneScore(7);
+    }
+
 }
